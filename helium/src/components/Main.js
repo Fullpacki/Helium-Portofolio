@@ -13,7 +13,7 @@ function Main() {
   }, []);
 
   return (
-    <div className="flex flex-row w-full justify-center items-center">
+    <div className="flex flex-row w-full justify-center items-center py-10">
       <div className="w-1/2 flex flex-col gap-5">
         <h3 className="text-8xl font-bold">People-Powered Networks</h3>
         <p className="text-4xl text-[#e07dc5] font-semibold">
